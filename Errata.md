@@ -29,7 +29,8 @@ Text should say: “When we train this network for 10,000 epochs”
 
 ### Listing 3.8 
 First line of code should be: from IPython.display import clear_output
-
+### Figure 3.7
+The slices are not of size 4*4.
 
 ## Chapter 4
 
